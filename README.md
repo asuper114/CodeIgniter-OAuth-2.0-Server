@@ -1,3 +1,13 @@
+---
+
+# This code has been deprecated - please use my new library [https://github.com/lncd/oauth2/](https://github.com/lncd/oauth2/)
+
+---
+
+
+
+
+
 # CodeIgniter OAuth 2.0 server
 
 This is an implementation of an OAuth 2.0 (draft 23) authorisation server using the CodeIgniter PHP framework.
